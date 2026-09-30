@@ -1,0 +1,8 @@
+CLAUDE.md
+_private/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*~
